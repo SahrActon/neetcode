@@ -22,3 +22,6 @@ https://www.youtube.com/shorts/7gRWQqh5vVY
 
 Setting up typescript
 https://www.youtube.com/watch?v=4zdBk6wisxc
+
+
+I use QUOKKA  vs code extention to my output on vs code
