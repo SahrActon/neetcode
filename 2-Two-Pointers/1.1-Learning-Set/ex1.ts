@@ -4,7 +4,7 @@ mySet.add(2)
 
 // adding a vaule
 mySet.add(3)
-mySet.add(1)//
+mySet.add(1)
 
 console.log(mySet)
 

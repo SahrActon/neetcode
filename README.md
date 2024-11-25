@@ -25,3 +25,11 @@ https://www.youtube.com/watch?v=4zdBk6wisxc
 
 
 I use QUOKKA  vs code extention to my output on vs code
+
+
+Ways of working 
+
+Time
+Easy - 5-10 minutes 
+Medium - 10-15 minutes 
+Hard - 20-25 minutes 

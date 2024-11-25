@@ -1,4 +1,4 @@
-import { problem217 } from "../1-Arrays-Hashing/Problem-set-1-217-Contians-duplicate";
+import { problem217 } from "../1-Arrays-Hashing/1./Problem-set-1-217-Contians-duplicate";
 
 console.log("Hello");
 
