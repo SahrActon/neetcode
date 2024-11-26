@@ -16,9 +16,15 @@ Work on problems from top to bottom (in order)
 ```
 
 Helpful resources
+1. why is leetcode important 
+- https://www.youtube.com/shorts/7gRWQqh5vVY
 
-https://www.youtube.com/watch?v=6zQAES-o1io
-https://www.youtube.com/shorts/7gRWQqh5vVY
+2. LeetCode Was Hard Until I Learned THESE 8 Patterns (With Templates!) - 
+    - https://www.youtube.com/watch?v=RYT08CaYq6A 
+
+3. Inspiration 
+    - https://www.youtube.com/watch?v=6zQAES-o1io
+
 
 Setting up typescript
 https://www.youtube.com/watch?v=4zdBk6wisxc
